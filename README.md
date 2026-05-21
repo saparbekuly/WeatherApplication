@@ -28,6 +28,3 @@ To run this project, ensure you have the latest version of Android Studio and th
 - Room for local database
 - Kotlin Coroutines for asynchronous programming
 - Koin for dependency injection
-
-## Contribution
-Your contributions are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements or fixes!
